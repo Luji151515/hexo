@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: false # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -54,7 +54,7 @@ category_map:
    前端: front-end
    算法: algorithm
    后端: pm
-   闲谈: casual
+   IFE: persevere
 tag_map:
   javascript: javascript
   CSS3: CSS3
@@ -92,10 +92,8 @@ theme: jsimple
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/Luji151515/Luji151515.github.io.git
+  https://github.com/Luji151515/Luji151515.github.io.git
   branch: master
-  
-  
   
   
   
