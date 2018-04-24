@@ -92,8 +92,10 @@ theme: jsimple
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  https://github.com/Luji151515/Luji151515.github.io.git
+  repository: https://github.com/Luji151515/Luji151515.github.io.git
   branch: master
+  
+  
   
   
   
